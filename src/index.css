@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.mapboxgl-ctrl-geocoder {
+  width: 100%;
+}
+
+.mapboxgl-ctrl-top-right .mapboxgl-ctrl-geocoder input[type='text'] {
+  padding-left: 30px !important;
+}
+
+label {
+  margin-bottom: 0 !important;
+}
